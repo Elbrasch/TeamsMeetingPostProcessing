@@ -1,0 +1,9 @@
+{
+    "openai-deployment-name": "gpt-4-32k",
+    "openai-api-base": "https://.openai.azure.com/",
+    "openai-api-version": "2023-05-15",
+    "openai-api-key": "",
+    "huggingface-token": "",
+    "asr-model": "openai/whisper-large-v2",
+    "use-gpu": true
+}

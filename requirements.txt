@@ -1,0 +1,8 @@
+pyannote.audio
+pydub
+numpy
+structlog
+torch
+librosa
+transformers
+openai
